@@ -35,7 +35,6 @@
 * **Backend & Database:** Firebase (Authentication, Cloud Firestore, Cloud Storage)
 * **State Management:** Provider
 * **Architecture:** Clean Architecture (Separation of UI, Models, Services, and Providers)
-* <img width="1919" height="1034" alt="Screenshot 2026-05-27 015849" src="https://github.com/user-attachments/assets/d9f69245-5acc-43ee-b07c-be8837d08d12" />
 
 
 ---

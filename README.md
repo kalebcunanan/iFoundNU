@@ -1,4 +1,4 @@
-<img width="1919" height="1034" alt="Screenshot 2026-05-27 015849" src="https://github.com/user-attachments/assets/0403c653-2fea-43fa-ae37-4b88ca62523f" /># 🔍 iFoundNU: The Official NU Clark Lost & Found App
+# 🔍 iFoundNU: The Official NU Clark Lost & Found App
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)

@@ -1,4 +1,4 @@
-# 🔍 iFoundNU: The Official NU Clark Lost & Found App
+<img width="1919" height="1034" alt="Screenshot 2026-05-27 015849" src="https://github.com/user-attachments/assets/0403c653-2fea-43fa-ae37-4b88ca62523f" /># 🔍 iFoundNU: The Official NU Clark Lost & Found App
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -35,16 +35,8 @@
 * **Backend & Database:** Firebase (Authentication, Cloud Firestore, Cloud Storage)
 * **State Management:** Provider
 * **Architecture:** Clean Architecture (Separation of UI, Models, Services, and Providers)
+* <img width="1919" height="1034" alt="Screenshot 2026-05-27 015849" src="https://github.com/user-attachments/assets/d9f69245-5acc-43ee-b07c-be8837d08d12" />
 
----
-
-## 📱 Screenshots
-
-*(Note: Replace these placeholders with actual screenshots of your app by uploading images to an `assets/screenshots/` folder in your repo, or by dragging and dropping images directly into this README on GitHub!)*
-
-| Login Screen | Home Feed | Report Item | In-App Chat |
-| :---: | :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/200x400.png?text=Login+Screen" width="200"/> | <img src="https://via.placeholder.com/200x400.png?text=Home+Feed" width="200"/> | <img src="https://via.placeholder.com/200x400.png?text=Report+Item" width="200"/> | <img src="https://via.placeholder.com/200x400.png?text=Chat+Screen" width="200"/> |
 
 ---
 
